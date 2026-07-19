@@ -1,1 +1,18 @@
-/* Add CSS Styling */
+.adjust-font-size {
+    font-size: 24px;
+}
+
+.odds {
+    background-color: rgb(250, 167, 167);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#blue {
+    color: rgb(17, 25, 240);
+    font-size: 36px;
+}
+
+#bold-green {
+    font-weight: bold;
+    background-color: rgb(114, 242, 148);
+}
